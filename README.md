@@ -14,10 +14,6 @@ Estoy aprendiendo JavaScript porque quiero mejorar mis habilidades como desarrol
 
 - 📘 **Apuntes** personales de cada tema
 - 💻 **Ejercicios prácticos** para afianzar conocimientos
-- 🎯 **Mini proyectos** como:
-  - Calculadora
-  - Lista de tareas
-  - Consumo de API con Fetch
 
 ---
 
