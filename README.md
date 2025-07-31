@@ -17,16 +17,7 @@ Estoy aprendiendo JavaScript porque quiero mejorar mis habilidades como desarrol
 
 ---
 
-## ✍️ Progreso
 
-- [x] Variables y tipos de datos  
-- [x] Condicionales y bucles  
-- [x] Funciones y scope  
-- [x] Arrays y objetos  
-- [ ] Manipulación del DOM  
-- [ ] Eventos  
-- [ ] Promesas y async/await  
-- [ ] Proyectos finales
 
 ---
 
